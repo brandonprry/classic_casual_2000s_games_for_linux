@@ -60,7 +60,7 @@ PLAY101_GAMESCOPE_FLAGS="-f -F fsr -W 2560 -H 1440" ./Action_Ball_2.AppImage
 
 ## Platform note
 
-All 250 titles run on native x86-64 Linux. (macOS/Apple-Silicon builds exist separately; a subset of games there are blocked by per-title activation layers that only fail under Rosetta — that limitation does **not** apply to these Linux AppImages, which run every game.)
+All 250 titles run on native x86-64 Linux. 
 
 ## Games (250)
 
