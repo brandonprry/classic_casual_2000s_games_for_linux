@@ -2,7 +2,7 @@
 
 Self-contained Linux **AppImages** of 250 classic mid-2000s casual games. Each AppImage bundles its own copy of Wine plus the game, so it runs on any modern x86-64 Linux desktop with no system Wine required.
 
-No internet required. No in-app purchases. 
+No internet required. No in-app purchases. Great for kids.
 
 ```
 https://drive.google.com/drive/folders/1SUSkwc0En0y8hxP1E4OuPWUBjnQmxu2_?usp=sharing
